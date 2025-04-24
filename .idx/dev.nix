@@ -29,9 +29,10 @@
         web = {
           # Example: run "npm run dev" with PORT set to IDX's defined port for previews,
           # and show it in IDX's web preview panel
+          # command = ["bun" "run" "dev" "--" "--port" "$PORT" "--hostname" "0.0.0.0"];
           command = ["bun" "run" "dev"];
-          manager = "web";
           cwd = "/home/user/z-lab/front-end";
+          manager = "web";
           env = {
             # Environment variables to set for your server
             PORT = "$PORT";
