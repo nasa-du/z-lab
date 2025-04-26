@@ -46,3 +46,6 @@ bun install @ianvs/prettier-plugin-sort-imports -D
 }
 ```
 ## rebuild environment in dev.inx
+
+## [Preview](https://9000-idx-z-labgit-1745421326214.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev/?monospaceUid=558245)
+
