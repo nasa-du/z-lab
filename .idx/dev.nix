@@ -21,6 +21,7 @@
     extensions = [
       "vscodevim.vim"
       "esbenp.prettier-vscode"
+      "dbaeumer.vscode-eslint"
       "charliermarsh.ruff"
       "steoates.autoimport"
       "formulahendry.auto-close-tag"
