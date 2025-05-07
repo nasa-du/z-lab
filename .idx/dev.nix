@@ -19,7 +19,14 @@
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
-      # "vscodevim.vim"
+      "vscodevim.vim"
+      "esbenp.prettier-vscode"
+      "charliermarsh.ruff"
+      "steoates.autoimport"
+      "formulahendry.auto-close-tag"
+      "emmanuelbeziat.vscode-great-icons"
+      "tomi.xasnippets"
+      "bradlc.vscode-tailwindcss"
     ];
     
     # Enable previews
